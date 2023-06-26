@@ -1,0 +1,21 @@
+{
+  "kind": "singleType",
+  "collectionName": "why_choose_easybans",
+  "info": {
+    "singularName": "why-choose-easyban",
+    "pluralName": "why-choose-easybans",
+    "displayName": "Why Choose Easyban"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    }
+  }
+}

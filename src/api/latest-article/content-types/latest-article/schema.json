@@ -1,0 +1,27 @@
+{
+  "kind": "collectionType",
+  "collectionName": "latest_articles",
+  "info": {
+    "singularName": "latest-article",
+    "pluralName": "latest-articles",
+    "displayName": "Latest Article"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "image": {
+      "type": "json"
+    },
+    "nameTag": {
+      "type": "string"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "why_choose_easybanks",
+  "info": {
+    "singularName": "why-choose-easybank",
+    "pluralName": "why-choose-easybanks",
+    "displayName": "Why Choose Easybank Option",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "content": {
+      "type": "richtext"
+    },
+    "nameImg": {
+      "type": "json"
+    }
+  }
+}
